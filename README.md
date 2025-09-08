@@ -39,12 +39,12 @@ I specialize in building scalable and efficient digital solutions. With hands-on
 **Frontend**  
 ![CSS3](https://img.shields.io/badge/CSS3-254BDD?style=for-the-badge&logo=css3&logoColor=white) 
 ![React](https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
 
 **Databases & Cloud**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=4EA94B) 
