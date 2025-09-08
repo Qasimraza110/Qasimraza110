@@ -1,16 +1,62 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=180&section=header&text=Full-Stack%20Developer&fontSize=40&fontColor=fff&animation=fadeIn" />
+</p>
 
-<!--
-**Qasimraza110/Qasimraza110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm **Qasim Raza** 👋  
+### 💻 A passionate **Full-Stack Developer**
 
-Here are some ideas to get you started:
+I specialize in building scalable and efficient digital solutions. With hands-on experience across frontend, backend, and databases, I focus on creating responsive, high-performance applications. Currently pursuing my Bachelor's degree, I enjoy transforming ideas into real-world projects — from **intuitive UIs** to **robust full-stack systems**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Expertise
+- 🎨 Designing clean, modern interfaces for **Websites & Web Applications**  
+- ⚡ Developing **end-to-end solutions** with scalable backends  
+- 🔗 Skilled in **Database & Cloud Integration** (MongoDB, MySQL, Firebase)  
+
+📌 *Stuck On a Problem? Let’s collaborate to find a technical solution.*  
+
+---
+
+## 📬 Connect with Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qasimraza110@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-qasim-raza-328489225/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qasimraza110)  
+
+---
+
+## 🛠️ Technical Skills  
+
+**Languages & OS**  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+![C](https://img.shields.io/badge/C-1E90FF?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![Python basic](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Frontend**  
+![CSS3](https://img.shields.io/badge/CSS3-254BDD?style=for-the-badge&logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
+
+**Databases & Cloud**  
+![MongoDB](https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=4EA94B) 
+![MySQL](https://img.shields.io/badge/MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-181818?style=for-the-badge&logo=firebase&logoColor=FFCA28) 
+
+---
+
+## 📌 Featured Projects
+- 🔹 [Personal Portfolio](https://qasim-raza.netlify.app/) – Built with **React & TailwindCSS**  
+- 🔹 [E-Commerce App](https://evoloop-shop.netlify.app/) – Full-featured **MERN stack** e-commerce platform  
+
+---
+
+⭐ *“Building scalable apps with clean code & creative solutions.”*  
