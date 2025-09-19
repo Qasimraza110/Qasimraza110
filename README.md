@@ -55,7 +55,7 @@ I specialize in building scalable and efficient digital solutions. With hands-on
 
 ## 📌 Featured Projects
 - 🔹 [Personal Portfolio](https://qasim-raza.netlify.app/) – Built with **React & TailwindCSS**  
-- 🔹 [E-Commerce App](https://evoloop-shop.netlify.app/) – Full-featured **MERN stack** e-commerce platform  
+- 🔹 [E-Commerce App](https://github.com/Qasimraza110/Evoloop-Shop-Mern-fullstack) – Full-featured **MERN stack** e-commerce platform  
 
 ---
 
