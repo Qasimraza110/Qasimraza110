@@ -72,13 +72,14 @@ I specialize in building scalable and efficient digital solutions. With hands-on
 ## 📊 GitHub Stats  
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Qasimraza110&show_icons=true&theme=radical&count_private=true" height="165" /> 
+   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Qasimraza110&show_icons=true&theme=radical&count_private=true" height="165" />  -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qasimraza110&theme=radical" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qasimraza110&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qasimraza110&layout=compact&theme=radical" />
-</p>
+<!-- <p align="center">
+
+</p> -->
 
 ---
 
